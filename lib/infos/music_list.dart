@@ -7,10 +7,12 @@ class musicList {
   final String styles;
   final String images;
   final double ratio;
+  final int year;
   final listenerMonthly;
 
 
   musicList({
+    required this.year,
     required this.song,
     required this.lyrics,
     required this.id,
