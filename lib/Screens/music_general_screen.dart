@@ -517,7 +517,7 @@ class _MusicGeneralScreenState extends State<MusicGeneralScreen> {
                   ),
                   SizedBox(height: 25.0),
                   Container(
-                    height: 120.0,
+                    height: 220.0,
                     decoration: BoxDecoration(
                       color: Colors.blueGrey[800],
                       borderRadius: BorderRadius.circular(10),
